@@ -1,7 +1,7 @@
 url: https://status.hfs.day
-status: down
-code: 530
-responseTime: 161
-lastUpdated: 2022-10-11T17:16:36.500Z
+status: up
+code: 200
+responseTime: 1342
+lastUpdated: 2022-10-11T17:49:58.424Z
 startTime: Tue Oct 11 2022 08:58:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
